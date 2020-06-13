@@ -1,4 +1,13 @@
 body{
-    background-color: rgb(250,150,150)
-    background-color: rgba(200,210,100,0.8)
+   
+    background-color: rgba(200, 210, 100, 0.8)
+}
+#bpic{
+    
+}
+.layout{
+    
+}
+table tr:even{
+     background-color: rgba(100, 210, 100, 0.8)
 }
