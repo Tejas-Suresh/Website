@@ -1,13 +1,13 @@
 body{
    
-    background-color: rgba(200, 210, 100, 0.8)
+    background-color: rgba(200, 210, 100, 0.8);
 }
 #bpic{
     
 }
 .layout{
-    
+    border: 2px dotted black;
 }
 table tr:even{
-     background-color: rgba(100, 210, 100, 0.8)
+     background-color: rgba(100, 210, 100, 0.8);
 }
