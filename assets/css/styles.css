@@ -11,3 +11,6 @@ body{
 table tr:even{
      background-color: rgba(100, 210, 100, 0.8);
 }
+table tr: first-child{
+    background-color: rgb(280, 210, 100);
+}
