@@ -10,6 +10,12 @@ body{
     font-family:cursive;
     
 }
+.box-model-outer{
+    border: 2px dotted black;
+}
+.box-model-inner{
+    border: 2px dotted cadetblue;
+}
 table tr: first-child{
     background-color: rgb(280, 210, 100);
 }
