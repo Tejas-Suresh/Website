@@ -33,11 +33,11 @@ table tr: first-child{
 }
 
 .box2{
-  right: 262px;  
+  right: 62px;  
   background-color: green;
 }
 
 .box3{
-    right: 124px;
+    left: 124px;
     background-color: blue;
 }
