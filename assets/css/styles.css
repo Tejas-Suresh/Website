@@ -16,6 +16,28 @@ body{
 .box-model-inner{
     border: 2px dotted cadetblue;
 }
+
 table tr: first-child{
     background-color: rgb(280, 210, 100);
+}
+.box{
+  height: 42px;
+  width: 42px;
+  border: 1px solid #333333;
+  padding: 9px;
+  text-align: center;
+  position: relative;
+}
+.box1{
+  background-color: red;
+}
+
+.box2{
+  left: 62px;  
+  background-color: green;
+}
+
+.box3{
+    left: 124px;
+    background-color: blue;
 }
