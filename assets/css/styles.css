@@ -41,3 +41,8 @@ table tr: first-child{
     left: 124px;
     background-color: blue;
 }
+.jets{
+  text-align: center;
+  background-color: blue;
+}
+
